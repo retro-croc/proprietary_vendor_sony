@@ -165,6 +165,8 @@ PRODUCT_COPY_FILES += \
 	vendor/sony/taoshan/proprietary/lib/libstagefrighthw.so:system/lib/libstagefrighthw.so \
 	vendor/sony/taoshan/proprietary/lib/libsurround_proc.so:system/lib/libsurround_proc.so \
 	vendor/sony/taoshan/proprietary/lib/libta.so:system/lib/libta.so \
+	vendor/sony/taoshan/proprietary/lib/libsensor_reg.so:system/lib/libsensor_reg.so \
+	vendor/sony/taoshan/proprietary/lib/libsensor1.so:system/lib/libsensor1.so \
 	vendor/sony/taoshan/proprietary/lib/libtime_genoff.so:system/lib/libtime_genoff.so \
 	vendor/sony/taoshan/proprietary/lib/libtzplayready.so:system/lib/libtzplayready.so \
 	vendor/sony/taoshan/proprietary/lib/modules/wlan.ko:system/lib/modules/wlan.ko \
